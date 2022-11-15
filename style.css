@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #000;
   }
   
   .logopart {
@@ -19,6 +20,7 @@
   }
   
   .heading {
+    color:#ffff00;
     text-align: center;
     font-family: "Poppins", sans-serif;
     font-size: 2rem;
